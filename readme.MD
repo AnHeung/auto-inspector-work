@@ -10,3 +10,4 @@ ex)  USER_ID = test
  ### 4. error.txt 에 실패한 서버들 목록 쌓임
  ### 5. success.txt 에 성공한 서버 목록 쌓임
  ### 6. send_error.txt 에 패치 실패한 서버 목록쌓임 (에러서버에도 쌓임)
+ ### 7. 터미널에서 npm start 실행
