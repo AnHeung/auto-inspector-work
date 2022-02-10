@@ -122,4 +122,9 @@ package-lock.json
 
 ## txt file
 error.txt
+send_error.txt
 success.txt
+test
+
+## 환경변수
+*.env
